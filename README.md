@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Olá,%20sou%20o%20João%20Paulo!&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <h1>Olá, eu sou o João Paulo! 👋</h1>
 </div>
-
 <div align="center">
   <img src="https://img.shields.io/badge/-Full%20Stack%20in%20Training-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java%20Enthusiast-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -10,21 +9,26 @@
 
 ---
 
-## — Sobre Mim
+## 🚀  Sobre Mim
 
-> "A lógica é o princípio da sabedoria, não o fim."
+<p>
+    "Sou um entusiasta da tecnologia de 19 anos, movido por desafios e pela resolução de problemas através do código.       Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) na FATEC Franca - SP."
+</p>
 
-* **👨‍💻 Atividade:** Atualmente transformando café em código e algoritmos em soluções.
+
+* **📚 Estudos:** Estudando Java, lógica de programação, HTML e CSS
 * **🎓 Formação:** Graduando em **Análise e Desenvolvimento de Sistemas**.
-* **🎯 Missão:** Evoluir de um entusiasta de lógica para um **Desenvolvedor Full Stack** especialista em ecossistema **Java**.
+* **🎯 Missão:** Evoluir de um entusiasta de lógica para um **Desenvolvedor Full Stack** especialista em ecossistema **Backend**.
 
 ---
 
 ### 🛠️ Minha Stack de Ferramentas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,py" />
 </div>
+
+---
 
 | Status | Tópico de Estudo |
 | :--- | :--- |
@@ -35,18 +39,25 @@
 
 ---
 
-### 📊 Meu Desempenho no Terminal
+### 📊 Estatistícas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopereiralm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
 ---
 
-### 📫 Conecte-se comigo
+### 🔥 Sequência de contribuições
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopereiralm&theme=dracula" alt="Minha Sequência de Commits"/>
+</p>
+
+---
+
+### 🌐  Conecte-se comigo
+
+<div align="left">
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

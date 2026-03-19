@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Minha Stack de Ferramentas
+### 🛠️ Minha Stack
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,html,css,py" />

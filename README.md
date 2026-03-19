@@ -1,6 +1,5 @@
-<div align="center">
-  <h1>Olá, eu sou o João Paulo! 👋</h1>
-</div>
+  <h1 align="center">Olá, eu sou o João Paulo! 👋</h1>
+
 <div align="center">
   <img src="https://img.shields.io/badge/-Full%20Stack%20in%20Training-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java%20Enthusiast-orange?style=for-the-badge&logo=openjdk&logoColor=white" />

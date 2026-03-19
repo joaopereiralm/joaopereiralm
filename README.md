@@ -58,7 +58,7 @@
 ### 🌐  Conecte-se comigo
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+  <a href="https://www.linkedin.com/in/joão-paulo-0778a12a8/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:seuemail@exemplo.com">

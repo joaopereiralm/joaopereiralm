@@ -36,14 +36,6 @@
 | 🌐 | **Web:** Construindo interfaces com HTML5 e CSS3 |
 
 ---
-
-### 📊 Estatistícas no GitHub
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopereiralm&layout=compact&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopereiralm&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
 ---
 
 ### 🔥 Sequência de contribuições

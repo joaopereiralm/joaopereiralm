@@ -36,11 +36,10 @@
 | 🌐 | **Web:** Construindo interfaces com HTML5 e CSS3 |
 
 ---
----
 
 ### 🔥 Sequência de contribuições
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopereiralm&theme=dracula" alt="Minha Sequência de Commits"/>
 </p>
 

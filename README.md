@@ -45,6 +45,10 @@
 
 ---
 
+### 🔥 Estatísticas de Linguagens
+
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=joaopereiralm&layout=compact&theme=tokyonight"/>
+
 ### 🌐  Conecte-se comigo
 
 <div align="left">

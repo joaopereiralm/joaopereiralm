@@ -39,10 +39,11 @@
 
 ### 🔥 Sequência de contribuições
 
-<div>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopereiralm&theme=dracula" alt="Minha Sequência de Commits" width="450px"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopereiralm&layout=compact&theme=tokyonight" width="400px"/>
+<div align="center">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopereiralm&theme=dracula" alt="Minha Sequência de Commits" width="450px"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopereiralm&layout=compact&theme=tokyonight" width="400px"/>
 </div>
+<br clear="left"/>
 
 
 ---

@@ -41,13 +41,10 @@
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopereiralm&theme=dracula" alt="Minha Sequência de Commits"/>
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=joaopereiralm&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
-
-### 🔥 Estatísticas de Linguagens
-
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=joaopereiralm&layout=compact&theme=tokyonight"/>
 
 ### 🌐  Conecte-se comigo
 

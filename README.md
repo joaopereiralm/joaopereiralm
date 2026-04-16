@@ -15,7 +15,7 @@
 </p>
 
 
-* **📚 Estudos:** Estudando Java, lógica de programação, HTML e CSS
+* **📚 Estudos:** Estudando Java, React, MySQL, lógica de programação.
 * **🎓 Formação:** Graduando em **Análise e Desenvolvimento de Sistemas**.
 * **🎯 Missão:** Evoluir de um entusiasta de lógica para um **Desenvolvedor Full Stack** especialista em ecossistema **Java**.
 
@@ -24,7 +24,7 @@
 ### 🛠️ Minha Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,py,react" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,py,react,postgresql" />
 </div>
 
 ---

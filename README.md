@@ -29,7 +29,7 @@
 
 ---
 
-| Status | Tópico de Estudo |
+| Status | Estudos |
 | :--- | :--- |
 | ⚡ | **Java:** POO, Herança |
 | 🧱 | **Estrutura de Dados:** Organizando o pensamento lógico |

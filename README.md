@@ -45,7 +45,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopereiralm&theme=dracula" alt="Minha Sequência de Commits" width="450px"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopereiralm&layout=compact&theme=tokyonight" width="400px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopereiralm&layout=compact&theme=tokyonight" width="350px"/>
     </td>
   </tr>
 </table>

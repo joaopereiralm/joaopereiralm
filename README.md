@@ -33,7 +33,7 @@
 | :--- | :--- |
 | ⚡ | **Java:** POO, Herança |
 | 🧱 | **Estrutura de Dados:** Organizando o pensamento lógico |
-| 🌐 | **Web:** Construindo interfaces com HTML5 e CSS3 |
+| 🌐 | **Web:** Construindo interfaces com React |
 
 ---
 

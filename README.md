@@ -31,7 +31,7 @@
 
 |Status | Estudos |
 | :--- | :--- |
-| ⚡ | **Java:** POO, Herança, Polimorfismo |
+| ⚡ | **Java:** POO, Springboot |
 | 🧱 | **Estrutura de Dados:** Organizando o pensamento lógico |
 | 🌐 | **Web:** Construindo interfaces com React |
 

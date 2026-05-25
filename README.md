@@ -1,4 +1,7 @@
-  <h1 align="center">Olá, eu sou o João Paulo! 👋</h1>
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Paulo!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Full%20Stack%20in%20Training-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
@@ -54,14 +57,9 @@
 
 ### 🌐  Conecte-se comigo
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/joão-paulo-0778a12a8">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:joaopaulodealmeidapereira1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-paulo-0778a12a8)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:joaopaulodealmeidapereira1@gmail.com)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/msharratt140/msharratt140/master/ocean_600.gif" width="100%" height="50px" />

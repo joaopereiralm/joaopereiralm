@@ -27,7 +27,7 @@
 ### 🛠️ Minha Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,py,react,postgresql" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,py,react,postgresql" />
 </div>
 
 ---

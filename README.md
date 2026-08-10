@@ -18,7 +18,7 @@
 </p>
 
 
-* **📚 Estudos:** Estudando Java, POO, React, SQL, lógica de programação.
+* **📚 Estudos:** Estudando Java, POO, React, SQL.
 * **🎓 Formação:** Graduando em **Análise e Desenvolvimento de Sistemas**.
 * **🎯 Missão:** Evoluir de um entusiasta de lógica para um **Desenvolvedor Full Stack** especialista em ecossistema **Java**.
 
